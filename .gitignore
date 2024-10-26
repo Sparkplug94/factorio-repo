@@ -16,6 +16,9 @@ saves/*
 !saves/_autosave2.zip
 !saves/_autosave3.zip
 
+# Ignore mods
+mods/*
+
 # Server specific files that might contain sensitive info
 server-adminlist.json
 server-id.json

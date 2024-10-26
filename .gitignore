@@ -22,3 +22,6 @@ mods/*
 # Server specific files that might contain sensitive info
 server-adminlist.json
 server-id.json
+
+#Player Data
+player-data.json

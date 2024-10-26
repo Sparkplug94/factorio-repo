@@ -6,8 +6,15 @@ factorio-previous.log
 crop-cache.dat
 temp/
 
-# Save files (usually large and change frequently)
-saves/
+# Ignore all saves...
+saves/*
+# But don't ignore the saves directory itself...
+!saves/
+# And also don't ignore a specific save
+!saves/cookieButterFactory.zip
+!saves/_autosave1.zip
+!saves/_autosave2.zip
+!saves/_autosave3.zip
 
 # Server specific files that might contain sensitive info
 server-adminlist.json

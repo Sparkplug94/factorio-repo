@@ -1,0 +1,14 @@
+# Logs
+factorio-current.log
+factorio-previous.log
+
+# Cache files
+crop-cache.dat
+temp/
+
+# Save files (usually large and change frequently)
+saves/
+
+# Server specific files that might contain sensitive info
+server-adminlist.json
+server-id.json

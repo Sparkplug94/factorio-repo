@@ -971,7 +971,9 @@
     "nauvis_mining_defense",
     "nauvis_biter_base_player_attack",
     "nauvis_forest_fire",
-    "nauvis_chase_player"
+    "nauvis_chase_player",
+    "vulcanus_lava_forge",
+    "gleba_pentapod_ponds"
   ],
-  "ticks-since-last-tip-shown": 894169
+  "ticks-since-last-tip-shown": 895814
 }
